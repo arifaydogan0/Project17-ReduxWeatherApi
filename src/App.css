@@ -1,0 +1,15 @@
+.header select{
+  font-size: 1.3rem;
+}
+
+.header option{
+  font-size: 1.6rem;
+}
+
+.header{
+  text-align: center;
+}
+
+.header-dropdown{
+  text-align: center;
+}
